@@ -1,18 +1,18 @@
-.container-fluid {
+container-fluid {
   background-color: yellow;
 }
 
-.container {
+/*container {
   background-color: black;
   color: white;
-}
+}*/
 
 header {
   background-color: blue;
 }
 
 nav {
-  background-color: green;
+  background-color: yellow;
 }
 
 section {
@@ -35,7 +35,7 @@ section, aside {
   border-right: 2px #000 solid;
 }
 
-promo, header {
+.promo, header {
   height: 150px;
 }
 
